@@ -1,0 +1,18 @@
+{
+  "unlocked_door": "Låst op",
+  "locked_door": "Låst",
+  "lock_door": "[E] Lås",
+  "unlock_door": "[E] Lås op",
+  "door_lock": "Lås til dør",
+  "passcode": "Kode",
+  "lockpick_broke": "Din lockpick gik i stykker",
+  "pick_lock": "Lockpick",
+  "add_lock": "Tilføj lås til dør",
+  "edit_lock": "Ændr lås til dør",
+  "remove_lock": "Fjern lås til dør",
+  "cannot_unlock": "Mislykket",
+  "cannot_lock": "Mislykket",
+  "create_modify_lock": "Create a doorlock, or modify an existing one",
+  "add_door_textui": "**Create new door**  \nInteract with [LMB]  \nCancel with [RMB]",
+  "command_closest": "Open UI directly to closest doorlock"
+}
