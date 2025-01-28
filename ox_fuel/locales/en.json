@@ -1,0 +1,20 @@
+{
+	"tank_full": "Tanken på bilen er fuld!",
+	"petrolcan_cannot_afford": "Du har ikke råd til en gas can",
+	"refuel_cannot_afford": "Du har ikke råd til at tanke dit køretøj",
+	"vehicle_far": "Dit køretøj er for langt væk",
+	"pump_fuel_with_can": "Tag din gas can væk, før du tanker køretøjet",
+	"fuel_help": "Tryk ~INPUT_C2939D45~ for at tanke",
+	"petrolcan_help": "Tryk ~INPUT_C2939D45~ for at købe eller genfylde din gas can",
+	"leave_vehicle": "Forlad køretøjet før du kan tanke",
+	"start_fueling": "Start tanking",
+	"petrolcan_buy_or_refill": "Køb eller genfyld din gas can",
+	"fuel_station_blip": "Gasstation",
+	"not_enough_money": "Ikke nok penge! Mangler %sDKK",
+	"fuel_success": "Tankede til %s - %sDKK",
+	"petrolcan_refill": "Betalte %sDKK for at genfylde din gas can",
+	"petrolcan_buy": "Betalte %sDKK for en gas can",
+	"petrolcan_cannot_carry": "Du kan ikke bærer denne gas can",
+	"petrolcan_not_enough_fuel": "Din gas can har ikke nok benzin",
+	"petrolcan_not_equipped": "Du er nød til at tage din gas can frem"
+}
